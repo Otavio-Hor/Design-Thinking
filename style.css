@@ -1,0 +1,91 @@
+html{
+  background-image: url(https://besthqwallpapers.com/Uploads/9-10-2019/108237/thumb2-colorful-lines-material-design-geometric-shapes-lollipop-lines.jpg);
+  background-size: cover; 
+  background-repeat: repeat;
+  
+}
+body{
+   margin-right: 5%;
+   margin-left: 5%;
+}
+
+header {
+       padding: 10px px;
+  background: rgba(40, 38, 158, 0.151);
+     color: #f1f1f1;
+         text-align: center;
+}
+
+nav{
+       padding: 10px px;
+  background: rgba(158, 38, 158, 0.151);
+     color: #f1f1f1;
+         text-align: center;
+}
+
+h1{
+           font-family: 'Mulish', sans-serif;
+}
+h2{
+         text-align: center; font-family: 'Quicksand', sans-serif;
+  background-color: rgba(255, 255, 255, 0.062);
+             border: 1px rgb(202, 202, 202) solid;
+             border-radius: 10px;
+}
+p{
+         text-align:left;
+           font-family: 'Inconsolata', monospace;
+}
+
+a{
+           font-family: 'Roboto Slab', serif;
+}
+
+.grid {
+  display: grid;
+  grid-template-rows: 25% 25% 25% 25% 25%;
+  gap: 3em;
+
+}
+
+.PS, .PQ, .PC{
+  background-color: rgba(255, 0, 0, 0.068);
+  border: 1px rgb(163, 4, 4) solid;
+  border-radius: 10px;
+}
+
+.OQ, .CA{
+  background-color: rgba(238, 255, 0, 0.089);
+  border: 1px rgba(251, 255, 0, 0.993) solid;
+  border-radius: 10px;
+}
+
+.PQ{
+  background-color: rgba(0, 4, 255, 0.096);
+  border: 1px rgba(0, 153, 255, 0.993) solid;
+  border-radius: 10px;
+}
+
+ul li a:hover {
+	background: rgba(0,0,0,.2);
+	border-radius: 4px;
+}
+
+ul li a {
+	display: inline-block;
+	padding: 10px 20px;
+	margin: 15px 5px;
+	color: white;
+	font-size: 1.2em;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: monospace;
+}
+
+ul li {
+	display: inline-block;
+}
+
+<div class:"footer">
+      <p>Fonte:<a href="https://www.agenciamestre.com/usabilidade/design-thinking/"> https://www.agenciamestre.com/usabilidade/design-thinking/</a></p>
+    </div>
